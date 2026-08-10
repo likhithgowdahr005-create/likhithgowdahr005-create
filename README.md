@@ -6,11 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhithgowdahr">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:likhithgowdahr005@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>Exploring hardware design, VLSI and semiconductor technologies ⚡</i>
 </p>
 
 ---
@@ -29,48 +33,14 @@
 
 ## 🛠️ Technical Toolbox
 
-### 🔬 VLSI & RTL
-
-<img src="https://img.shields.io/badge/Verilog-ED1C24?style=flat-square&logo=verilog&logoColor=white" />
-<img src="https://img.shields.io/badge/RTL_Design-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/FSM-6B7280?style=flat-square" />
-<img src="https://img.shields.io/badge/Digital_Logic-374151?style=flat-square" />
-
-### ⚙️ EDA & Simulation
-
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-B91C1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Yosys-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenSTA-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Verilator-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/GTKWave-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/ModelSim-1D4ED8?style=flat-square" />
-
-### 🔌 PCB & Hardware
-
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/DesignSpark-FF6600?style=flat-square" />
-<img src="https://img.shields.io/badge/PCB_Design-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Hardware_Design-374151?style=flat-square" />
-
-### 🤖 Embedded Systems
-
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square" />
-<img src="https://img.shields.io/badge/PIC16F877A-6B7280?style=flat-square" />
-<img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-
-### 💻 Programming
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-### 🧰 Development
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
-<img src="https://img.shields.io/badge/Simulink-E16737?style=flat-square" />
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **VLSI & RTL** | <img src="https://img.shields.io/badge/Verilog-ED1C24?style=flat-square&logo=verilog&logoColor=white"> <img src="https://img.shields.io/badge/RTL_Design-4B5563?style=flat-square"> <img src="https://img.shields.io/badge/FSM-6B7280?style=flat-square"> <img src="https://img.shields.io/badge/Digital_Logic-374151?style=flat-square"> |
+| **EDA & Simulation** | <img src="https://img.shields.io/badge/Cadence_Virtuoso-B91C1C?style=flat-square"> <img src="https://img.shields.io/badge/Yosys-2563EB?style=flat-square"> <img src="https://img.shields.io/badge/OpenSTA-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/Verilator-059669?style=flat-square"> <img src="https://img.shields.io/badge/GTKWave-0891B2?style=flat-square"> <img src="https://img.shields.io/badge/ModelSim-1D4ED8?style=flat-square"> |
+| **PCB & Hardware** | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"> <img src="https://img.shields.io/badge/DesignSpark-FF6600?style=flat-square"> <img src="https://img.shields.io/badge/PCB_Design-4B5563?style=flat-square"> <img src="https://img.shields.io/badge/Hardware_Design-374151?style=flat-square"> |
+| **Embedded Systems** | <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square"> <img src="https://img.shields.io/badge/PIC16F877A-6B7280?style=flat-square"> <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"> |
+| **Programming** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
+| **Development** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"> <img src="https://img.shields.io/badge/Simulink-E16737?style=flat-square"> |
 
 ---
 
