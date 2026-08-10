@@ -12,7 +12,7 @@
 - 🔬 Interested in Digital VLSI, Analog VLSI and ASIC Design
 - 💻 Working with Verilog HDL and RTL Design
 - ⚙️ Exploring FPGA and ASIC Design Flows
-- 🔌 Experienced in PCB Design and Hardware Development
+- 🔌 Hands-on exposure in PCB Design and Hardware Development
 - 🤖 Interested in Embedded Systems and Microcontrollers
 - 📐 Experienced with Cadence Virtuoso for Analog/Mixed-Signal Design
 
@@ -27,7 +27,7 @@
 | **PCB Design** | KiCad • DesignSpark |
 | **Embedded Systems** | Embedded C • PIC16F877A • ESP32-C3 • Arduino |
 | **Programming** | C • C++ • Python |
-| **Development** | Git • GitHub • MATLAB • Simulink |
+| **Development** | GitHub • MATLAB • Simulink |
 
 ---
 
