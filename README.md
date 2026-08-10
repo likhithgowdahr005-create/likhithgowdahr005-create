@@ -5,8 +5,19 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/likhithgowdahr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:likhithgowdahr005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <i>Exploring hardware design, VLSI and semiconductor technologies ⚡</i>
 </p>
+
 ---
 
 ## 🚀 About Me
@@ -17,7 +28,7 @@
 - ⚙️ Exploring VLSI Design and Semiconductor Technologies
 - 🔌 Hands-on experience in PCB Design and Hardware Development
 - 🤖 Interested in Embedded Systems and Microcontrollers
-- 📐 Experienced with Cadence Virtuoso for Analog/Mixed-Signal Design
+- 📐 Hands-on experience with Cadence Virtuoso for Analog/Mixed-Signal Design
 
 ---
 
@@ -34,20 +45,6 @@
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/likhithgowdahr">
-    🔗 LinkedIn
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:likhithgowdahr005@gmail.com">
-    📧 Email
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <i>Designing Hardware • Exploring VLSI • Building the Future</i> ⚡
+  <i>⚡ Learning • Designing • Building ⚡</i>
 </p>
