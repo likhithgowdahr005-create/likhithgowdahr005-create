@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 - 🎓 Electronics & Communication Engineering student at DSATM
-- 🔬  Passionate about Digital & Analog VLSI and PCB Design
+- 🔬 Passionate about Digital & Analog VLSI and PCB Design
 - 💻 Working with Verilog HDL and RTL Design
-- ⚙️ Exploring FPGA and ASIC Design Flows
+- ⚙️ Exploring VLSI Design and Semiconductor Technologies
 - 🔌 Hands-on experience in PCB Design and Hardware Development
 - 🤖 Interested in Embedded Systems and Microcontrollers
 - 📐 Experienced with Cadence Virtuoso for Analog/Mixed-Signal Design
@@ -27,7 +27,7 @@
 | **PCB Design** | KiCad • DesignSpark |
 | **Embedded Systems** | Embedded C • PIC16F877A • ESP32-C3 • Arduino |
 | **Programming** | C • C++ • Python |
-| **Development** | GitHub • MATLAB • Simulink |
+| **Development** | Git • GitHub • MATLAB • Simulink |
 
 ---
 
@@ -35,11 +35,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhithgowdahr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    🔗 LinkedIn
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:likhithgowdahr005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    📧 Email
   </a>
 </p>
 
